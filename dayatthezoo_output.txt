@@ -1,0 +1,2126 @@
+(base) caleb@TianchendeMBP 4448_Project_1_Keyu_Tianchen % javac main.java
+(base) caleb@TianchendeMBP 4448_Project_1_Keyu_Tianchen % java main
+Enter integer # of days: (follow by enter when done)
+7
+
+Day 1
+Zookeeper Tom is arriving at zoo
+---------------------------------------
+Tom is waking Elle
+Elle the Elephant is awake
+---------------------------------------
+Tom is waking Elliot
+Elliot the Elephant is awake
+---------------------------------------
+Tom is waking Halcyon
+Halcyon the Hippo is awake
+---------------------------------------
+Tom is waking Happy
+Happy the Hippo is awake
+---------------------------------------
+Tom is waking Ron
+Ron the Rhino is awake
+---------------------------------------
+Tom is waking Rachel
+Rachel the Rhino is awake
+---------------------------------------
+Tom is waking Celab
+Celab the Cat is awake
+---------------------------------------
+Tom is waking Chris
+Chris the Cat is awake
+---------------------------------------
+Tom is waking Luna
+Luna the Lion is awake
+---------------------------------------
+Tom is waking Leslie
+Leslie the Lion is awake
+---------------------------------------
+Tom is waking Tom
+Tom the Tiger is awake
+---------------------------------------
+Tom is waking Tilt
+Tilt the Tiger is awake
+---------------------------------------
+Tom is waking Walter
+Walter the Wolf is awake
+---------------------------------------
+Tom is waking William
+William the Wolf is awake
+---------------------------------------
+Tom is waking Duang
+Duang the Dog is awake
+---------------------------------------
+Tom is waking Don
+Don the Dog is awake
+---------------------------------------
+Tom is waking Gavin
+Gavin the Gorilla is awake
+---------------------------------------
+Tom is waking Gabriel
+Gabriel the Gorilla is awake
+---------------------------------------
+Tom is waking Champ
+Champ the Chimpanzee is awake
+---------------------------------------
+Tom is waking Cocacola
+Cocacola the Chimpanzee is awake
+---------------------------------------
+Tom is calling Elle
+Elle is making noise
+---------------------------------------
+Tom is calling Elliot
+Elliot is making noise
+---------------------------------------
+Tom is calling Halcyon
+Halcyon is making noise
+---------------------------------------
+Tom is calling Happy
+Happy is making noise
+---------------------------------------
+Tom is calling Ron
+Ron is making noise
+---------------------------------------
+Tom is calling Rachel
+Rachel is making noise
+---------------------------------------
+Tom is calling Celab
+Celab the Cat is making noise
+---------------------------------------
+Tom is calling Chris
+Chris the Cat is making noise
+---------------------------------------
+Tom is calling Luna
+Luna is making noise
+---------------------------------------
+Tom is calling Leslie
+Leslie is making noise
+---------------------------------------
+Tom is calling Tom
+Tom is making noise
+---------------------------------------
+Tom is calling Tilt
+Tilt is making noise
+---------------------------------------
+Tom is calling Walter
+Walter is making noise
+---------------------------------------
+Tom is calling William
+William is making noise
+---------------------------------------
+Tom is calling Duang
+Duang is making noise
+---------------------------------------
+Tom is calling Don
+Don is making noise
+---------------------------------------
+Tom is calling Gavin
+Gavin is making noise, duang duang duang!
+---------------------------------------
+Tom is calling Gabriel
+Gabriel is making noise, duang duang duang!
+---------------------------------------
+Tom is calling Champ
+Champ is making noise, bobobobobo!
+---------------------------------------
+Tom is calling Cocacola
+Cocacola is making noise, bobobobobo!
+---------------------------------------
+Tom is feeding Elle
+Elle the Elephant is eating
+---------------------------------------
+Tom is feeding Elliot
+Elliot the Elephant is eating
+---------------------------------------
+Tom is feeding Halcyon
+Halcyon the Hippo is eating
+---------------------------------------
+Tom is feeding Happy
+Happy the Hippo is eating
+---------------------------------------
+Tom is feeding Ron
+Ron the Rhino is eating
+---------------------------------------
+Tom is feeding Rachel
+Rachel the Rhino is eating
+---------------------------------------
+Tom is feeding Celab
+Celab the Cat is eating
+---------------------------------------
+Tom is feeding Chris
+Chris the Cat is eating
+---------------------------------------
+Tom is feeding Luna
+Luna the Lion is eating
+---------------------------------------
+Tom is feeding Leslie
+Leslie the Lion is eating
+---------------------------------------
+Tom is feeding Tom
+Tom the Tiger is eating
+---------------------------------------
+Tom is feeding Tilt
+Tilt the Tiger is eating
+---------------------------------------
+Tom is feeding Walter
+Walter the Wolf is eating
+---------------------------------------
+Tom is feeding William
+William the Wolf is eating
+---------------------------------------
+Tom is feeding Duang
+Duang the Dog is eating
+---------------------------------------
+Tom is feeding Don
+Don the Dog is eating
+---------------------------------------
+Tom is feeding Gavin
+Gavin the Gorilla is eating
+---------------------------------------
+Tom is feeding Gabriel
+Gabriel the Gorilla is eating
+---------------------------------------
+Tom is feeding Champ
+Champ the Chimpanzee is eating
+---------------------------------------
+Tom is feeding Cocacola
+Cocacola the Chimpanzee is eating
+---------------------------------------
+Tom is forcing Elle to exercise
+Elle the Elephant is lifting weight
+---------------------------------------
+Tom is forcing Elliot to exercise
+Elliot the Elephant is lifting weight
+---------------------------------------
+Tom is forcing Halcyon to exercise
+Halcyon the Hippo is lifting weight
+---------------------------------------
+Tom is forcing Happy to exercise
+Happy the Hippo is lifting weight
+---------------------------------------
+Tom is forcing Ron to exercise
+Ron the Rhino is lifting weight
+---------------------------------------
+Tom is forcing Rachel to exercise
+Rachel the Rhino is lifting weight
+---------------------------------------
+Tom is forcing Celab to exercise
+Celab the Cat is lifting weight
+---------------------------------------
+Tom is forcing Chris to exercise
+Chris the Cat is lifting weight
+---------------------------------------
+Tom is forcing Luna to exercise
+Luna the Lion is lifting weight
+---------------------------------------
+Tom is forcing Leslie to exercise
+Leslie the Lion is lifting weight
+---------------------------------------
+Tom is forcing Tom to exercise
+Tom the Tiger is lifting weight
+---------------------------------------
+Tom is forcing Tilt to exercise
+Tilt the Tiger is lifting weight
+---------------------------------------
+Tom is forcing Walter to exercise
+Walter the Wolf is lifting weight
+---------------------------------------
+Tom is forcing William to exercise
+William the Wolf is lifting weight
+---------------------------------------
+Tom is forcing Duang to exercise
+Duang the dog is lifting weight
+---------------------------------------
+Tom is forcing Don to exercise
+Don the dog is lifting weight
+---------------------------------------
+Tom is forcing Gavin to exercise
+Gavin the Gorilla is lifting weight
+---------------------------------------
+Tom is forcing Gabriel to exercise
+Gabriel the Gorilla is lifting weight
+---------------------------------------
+Tom is forcing Champ to exercise
+Champ the Chimpanzee is lifting weight
+---------------------------------------
+Tom is forcing Cocacola to exercise
+Cocacola the Chimpanzee is lifting weight
+---------------------------------------
+Tom is injecting opium to Elle
+Elle the Elephant is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Elliot
+Elliot the Elephant is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Halcyon
+Halcyon the Hippo is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Happy
+Happy the Hippo is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Ron
+Ron the Rhino is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Rachel
+Rachel the Rhino is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Celab
+Celab the cat is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Chris
+Chris is roaming, meoooooooooow!
+---------------------------------------
+Tom is injecting opium to Luna
+Luna the Lion is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Leslie
+Leslie the Lion is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Tom
+Tom the Tiger is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Tilt
+Tilt the Tiger is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Walter
+Walter the Wolf is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to William
+William the Wolf is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Duang
+Duang the Dog is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Don
+Don the Dog is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Gavin
+Gavin the Gorilla is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Gabriel
+Gabriel the Gorilla is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Champ
+Champ the Chimpanzee is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Cocacola
+Cocacola the Chimpanzee is asleep ZZZ
+
+Day 2
+Zookeeper Tom is arriving at zoo
+---------------------------------------
+Tom is waking Elle
+Elle the Elephant is awake
+---------------------------------------
+Tom is waking Elliot
+Elliot the Elephant is awake
+---------------------------------------
+Tom is waking Halcyon
+Halcyon the Hippo is awake
+---------------------------------------
+Tom is waking Happy
+Happy the Hippo is awake
+---------------------------------------
+Tom is waking Ron
+Ron the Rhino is awake
+---------------------------------------
+Tom is waking Rachel
+Rachel the Rhino is awake
+---------------------------------------
+Tom is waking Celab
+Celab the Cat is awake
+---------------------------------------
+Tom is waking Chris
+Chris the Cat is awake
+---------------------------------------
+Tom is waking Luna
+Luna the Lion is awake
+---------------------------------------
+Tom is waking Leslie
+Leslie the Lion is awake
+---------------------------------------
+Tom is waking Tom
+Tom the Tiger is awake
+---------------------------------------
+Tom is waking Tilt
+Tilt the Tiger is awake
+---------------------------------------
+Tom is waking Walter
+Walter the Wolf is awake
+---------------------------------------
+Tom is waking William
+William the Wolf is awake
+---------------------------------------
+Tom is waking Duang
+Duang the Dog is awake
+---------------------------------------
+Tom is waking Don
+Don the Dog is awake
+---------------------------------------
+Tom is waking Gavin
+Gavin the Gorilla is awake
+---------------------------------------
+Tom is waking Gabriel
+Gabriel the Gorilla is awake
+---------------------------------------
+Tom is waking Champ
+Champ the Chimpanzee is awake
+---------------------------------------
+Tom is waking Cocacola
+Cocacola the Chimpanzee is awake
+---------------------------------------
+Tom is calling Elle
+Elle is making noise
+---------------------------------------
+Tom is calling Elliot
+Elliot is making noise
+---------------------------------------
+Tom is calling Halcyon
+Halcyon is making noise
+---------------------------------------
+Tom is calling Happy
+Happy is making noise
+---------------------------------------
+Tom is calling Ron
+Ron is making noise
+---------------------------------------
+Tom is calling Rachel
+Rachel is making noise
+---------------------------------------
+Tom is calling Celab
+Celab the Cat is making noise
+---------------------------------------
+Tom is calling Chris
+Chris the Cat is making noise
+---------------------------------------
+Tom is calling Luna
+Luna is making noise
+---------------------------------------
+Tom is calling Leslie
+Leslie is making noise
+---------------------------------------
+Tom is calling Tom
+Tom is making noise
+---------------------------------------
+Tom is calling Tilt
+Tilt is making noise
+---------------------------------------
+Tom is calling Walter
+Walter is making noise
+---------------------------------------
+Tom is calling William
+William is making noise
+---------------------------------------
+Tom is calling Duang
+Duang is making noise
+---------------------------------------
+Tom is calling Don
+Don is making noise
+---------------------------------------
+Tom is calling Gavin
+Gavin is making noise, duang duang duang!
+---------------------------------------
+Tom is calling Gabriel
+Gabriel is making noise, duang duang duang!
+---------------------------------------
+Tom is calling Champ
+Champ is making noise, bobobobobo!
+---------------------------------------
+Tom is calling Cocacola
+Cocacola is making noise, bobobobobo!
+---------------------------------------
+Tom is feeding Elle
+Elle the Elephant is eating
+---------------------------------------
+Tom is feeding Elliot
+Elliot the Elephant is eating
+---------------------------------------
+Tom is feeding Halcyon
+Halcyon the Hippo is eating
+---------------------------------------
+Tom is feeding Happy
+Happy the Hippo is eating
+---------------------------------------
+Tom is feeding Ron
+Ron the Rhino is eating
+---------------------------------------
+Tom is feeding Rachel
+Rachel the Rhino is eating
+---------------------------------------
+Tom is feeding Celab
+Celab the Cat is eating
+---------------------------------------
+Tom is feeding Chris
+Chris the Cat is eating
+---------------------------------------
+Tom is feeding Luna
+Luna the Lion is eating
+---------------------------------------
+Tom is feeding Leslie
+Leslie the Lion is eating
+---------------------------------------
+Tom is feeding Tom
+Tom the Tiger is eating
+---------------------------------------
+Tom is feeding Tilt
+Tilt the Tiger is eating
+---------------------------------------
+Tom is feeding Walter
+Walter the Wolf is eating
+---------------------------------------
+Tom is feeding William
+William the Wolf is eating
+---------------------------------------
+Tom is feeding Duang
+Duang the Dog is eating
+---------------------------------------
+Tom is feeding Don
+Don the Dog is eating
+---------------------------------------
+Tom is feeding Gavin
+Gavin the Gorilla is eating
+---------------------------------------
+Tom is feeding Gabriel
+Gabriel the Gorilla is eating
+---------------------------------------
+Tom is feeding Champ
+Champ the Chimpanzee is eating
+---------------------------------------
+Tom is feeding Cocacola
+Cocacola the Chimpanzee is eating
+---------------------------------------
+Tom is forcing Elle to exercise
+Elle the Elephant is lifting weight
+---------------------------------------
+Tom is forcing Elliot to exercise
+Elliot the Elephant is lifting weight
+---------------------------------------
+Tom is forcing Halcyon to exercise
+Halcyon the Hippo is lifting weight
+---------------------------------------
+Tom is forcing Happy to exercise
+Happy the Hippo is lifting weight
+---------------------------------------
+Tom is forcing Ron to exercise
+Ron the Rhino is lifting weight
+---------------------------------------
+Tom is forcing Rachel to exercise
+Rachel the Rhino is lifting weight
+---------------------------------------
+Tom is forcing Celab to exercise
+Celab the Cat is lifting weight
+---------------------------------------
+Tom is forcing Chris to exercise
+Chris the Cat is lifting weight
+---------------------------------------
+Tom is forcing Luna to exercise
+Luna the Lion is lifting weight
+---------------------------------------
+Tom is forcing Leslie to exercise
+Leslie the Lion is lifting weight
+---------------------------------------
+Tom is forcing Tom to exercise
+Tom the Tiger is lifting weight
+---------------------------------------
+Tom is forcing Tilt to exercise
+Tilt the Tiger is lifting weight
+---------------------------------------
+Tom is forcing Walter to exercise
+Walter the Wolf is lifting weight
+---------------------------------------
+Tom is forcing William to exercise
+William the Wolf is lifting weight
+---------------------------------------
+Tom is forcing Duang to exercise
+Duang the dog is digging
+---------------------------------------
+Tom is forcing Don to exercise
+Don the dog is lifting weight
+---------------------------------------
+Tom is forcing Gavin to exercise
+Gavin the Gorilla is lifting weight
+---------------------------------------
+Tom is forcing Gabriel to exercise
+Gabriel the Gorilla is lifting weight
+---------------------------------------
+Tom is forcing Champ to exercise
+Champ the Chimpanzee is lifting weight
+---------------------------------------
+Tom is forcing Cocacola to exercise
+Cocacola the Chimpanzee is lifting weight
+---------------------------------------
+Tom is injecting opium to Elle
+Elle the Elephant is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Elliot
+Elliot the Elephant is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Halcyon
+Halcyon the Hippo is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Happy
+Happy the Hippo is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Ron
+Ron the Rhino is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Rachel
+Rachel the Rhino is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Celab
+Celab the Cat is making noise
+---------------------------------------
+Tom is injecting opium to Chris
+Chris the cat is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Luna
+Luna the Lion is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Leslie
+Leslie the Lion is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Tom
+Tom the Tiger is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Tilt
+Tilt the Tiger is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Walter
+Walter the Wolf is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to William
+William the Wolf is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Duang
+Duang the Dog is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Don
+Don the Dog is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Gavin
+Gavin the Gorilla is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Gabriel
+Gabriel the Gorilla is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Champ
+Champ the Chimpanzee is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Cocacola
+Cocacola the Chimpanzee is asleep ZZZ
+
+Day 3
+Zookeeper Tom is arriving at zoo
+---------------------------------------
+Tom is waking Elle
+Elle the Elephant is awake
+---------------------------------------
+Tom is waking Elliot
+Elliot the Elephant is awake
+---------------------------------------
+Tom is waking Halcyon
+Halcyon the Hippo is awake
+---------------------------------------
+Tom is waking Happy
+Happy the Hippo is awake
+---------------------------------------
+Tom is waking Ron
+Ron the Rhino is awake
+---------------------------------------
+Tom is waking Rachel
+Rachel the Rhino is awake
+---------------------------------------
+Tom is waking Celab
+Celab the Cat is awake
+---------------------------------------
+Tom is waking Chris
+Chris the Cat is awake
+---------------------------------------
+Tom is waking Luna
+Luna the Lion is awake
+---------------------------------------
+Tom is waking Leslie
+Leslie the Lion is awake
+---------------------------------------
+Tom is waking Tom
+Tom the Tiger is awake
+---------------------------------------
+Tom is waking Tilt
+Tilt the Tiger is awake
+---------------------------------------
+Tom is waking Walter
+Walter the Wolf is awake
+---------------------------------------
+Tom is waking William
+William the Wolf is awake
+---------------------------------------
+Tom is waking Duang
+Duang the Dog is awake
+---------------------------------------
+Tom is waking Don
+Don the Dog is awake
+---------------------------------------
+Tom is waking Gavin
+Gavin the Gorilla is awake
+---------------------------------------
+Tom is waking Gabriel
+Gabriel the Gorilla is awake
+---------------------------------------
+Tom is waking Champ
+Champ the Chimpanzee is awake
+---------------------------------------
+Tom is waking Cocacola
+Cocacola the Chimpanzee is awake
+---------------------------------------
+Tom is calling Elle
+Elle is making noise
+---------------------------------------
+Tom is calling Elliot
+Elliot is making noise
+---------------------------------------
+Tom is calling Halcyon
+Halcyon is making noise
+---------------------------------------
+Tom is calling Happy
+Happy is making noise
+---------------------------------------
+Tom is calling Ron
+Ron is making noise
+---------------------------------------
+Tom is calling Rachel
+Rachel is making noise
+---------------------------------------
+Tom is calling Celab
+Celab the Cat is making noise
+---------------------------------------
+Tom is calling Chris
+Chris the Cat is making noise
+---------------------------------------
+Tom is calling Luna
+Luna is making noise
+---------------------------------------
+Tom is calling Leslie
+Leslie is making noise
+---------------------------------------
+Tom is calling Tom
+Tom is making noise
+---------------------------------------
+Tom is calling Tilt
+Tilt is making noise
+---------------------------------------
+Tom is calling Walter
+Walter is making noise
+---------------------------------------
+Tom is calling William
+William is making noise
+---------------------------------------
+Tom is calling Duang
+Duang is making noise
+---------------------------------------
+Tom is calling Don
+Don is making noise
+---------------------------------------
+Tom is calling Gavin
+Gavin is making noise, duang duang duang!
+---------------------------------------
+Tom is calling Gabriel
+Gabriel is making noise, duang duang duang!
+---------------------------------------
+Tom is calling Champ
+Champ is making noise, bobobobobo!
+---------------------------------------
+Tom is calling Cocacola
+Cocacola is making noise, bobobobobo!
+---------------------------------------
+Tom is feeding Elle
+Elle the Elephant is eating
+---------------------------------------
+Tom is feeding Elliot
+Elliot the Elephant is eating
+---------------------------------------
+Tom is feeding Halcyon
+Halcyon the Hippo is eating
+---------------------------------------
+Tom is feeding Happy
+Happy the Hippo is eating
+---------------------------------------
+Tom is feeding Ron
+Ron the Rhino is eating
+---------------------------------------
+Tom is feeding Rachel
+Rachel the Rhino is eating
+---------------------------------------
+Tom is feeding Celab
+Celab the Cat is eating
+---------------------------------------
+Tom is feeding Chris
+Chris the Cat is eating
+---------------------------------------
+Tom is feeding Luna
+Luna the Lion is eating
+---------------------------------------
+Tom is feeding Leslie
+Leslie the Lion is eating
+---------------------------------------
+Tom is feeding Tom
+Tom the Tiger is eating
+---------------------------------------
+Tom is feeding Tilt
+Tilt the Tiger is eating
+---------------------------------------
+Tom is feeding Walter
+Walter the Wolf is eating
+---------------------------------------
+Tom is feeding William
+William the Wolf is eating
+---------------------------------------
+Tom is feeding Duang
+Duang the Dog is eating
+---------------------------------------
+Tom is feeding Don
+Don the Dog is eating
+---------------------------------------
+Tom is feeding Gavin
+Gavin the Gorilla is eating
+---------------------------------------
+Tom is feeding Gabriel
+Gabriel the Gorilla is eating
+---------------------------------------
+Tom is feeding Champ
+Champ the Chimpanzee is eating
+---------------------------------------
+Tom is feeding Cocacola
+Cocacola the Chimpanzee is eating
+---------------------------------------
+Tom is forcing Elle to exercise
+Elle the Elephant is lifting weight
+---------------------------------------
+Tom is forcing Elliot to exercise
+Elliot the Elephant is lifting weight
+---------------------------------------
+Tom is forcing Halcyon to exercise
+Halcyon the Hippo is lifting weight
+---------------------------------------
+Tom is forcing Happy to exercise
+Happy the Hippo is lifting weight
+---------------------------------------
+Tom is forcing Ron to exercise
+Ron the Rhino is lifting weight
+---------------------------------------
+Tom is forcing Rachel to exercise
+Rachel the Rhino is lifting weight
+---------------------------------------
+Tom is forcing Celab to exercise
+Celab the Cat is lifting weight
+---------------------------------------
+Tom is forcing Chris to exercise
+Chris the Cat is lifting weight
+---------------------------------------
+Tom is forcing Luna to exercise
+Luna the Lion is lifting weight
+---------------------------------------
+Tom is forcing Leslie to exercise
+Leslie the Lion is lifting weight
+---------------------------------------
+Tom is forcing Tom to exercise
+Tom the Tiger is lifting weight
+---------------------------------------
+Tom is forcing Tilt to exercise
+Tilt the Tiger is lifting weight
+---------------------------------------
+Tom is forcing Walter to exercise
+Walter the Wolf is lifting weight
+---------------------------------------
+Tom is forcing William to exercise
+William the Wolf is lifting weight
+---------------------------------------
+Tom is forcing Duang to exercise
+Duang the dog is lifting weight
+---------------------------------------
+Tom is forcing Don to exercise
+Don the dog is digging
+---------------------------------------
+Tom is forcing Gavin to exercise
+Gavin the Gorilla is lifting weight
+---------------------------------------
+Tom is forcing Gabriel to exercise
+Gabriel the Gorilla is lifting weight
+---------------------------------------
+Tom is forcing Champ to exercise
+Champ the Chimpanzee is lifting weight
+---------------------------------------
+Tom is forcing Cocacola to exercise
+Cocacola the Chimpanzee is lifting weight
+---------------------------------------
+Tom is injecting opium to Elle
+Elle the Elephant is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Elliot
+Elliot the Elephant is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Halcyon
+Halcyon the Hippo is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Happy
+Happy the Hippo is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Ron
+Ron the Rhino is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Rachel
+Rachel the Rhino is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Celab
+Celab is roaming, meoooooooooow!
+---------------------------------------
+Tom is injecting opium to Chris
+Chris the cat is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Luna
+Luna the Lion is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Leslie
+Leslie the Lion is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Tom
+Tom the Tiger is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Tilt
+Tilt the Tiger is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Walter
+Walter the Wolf is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to William
+William the Wolf is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Duang
+Duang the Dog is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Don
+Don the Dog is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Gavin
+Gavin the Gorilla is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Gabriel
+Gabriel the Gorilla is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Champ
+Champ the Chimpanzee is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Cocacola
+Cocacola the Chimpanzee is asleep ZZZ
+
+Day 4
+Zookeeper Tom is arriving at zoo
+---------------------------------------
+Tom is waking Elle
+Elle the Elephant is awake
+---------------------------------------
+Tom is waking Elliot
+Elliot the Elephant is awake
+---------------------------------------
+Tom is waking Halcyon
+Halcyon the Hippo is awake
+---------------------------------------
+Tom is waking Happy
+Happy the Hippo is awake
+---------------------------------------
+Tom is waking Ron
+Ron the Rhino is awake
+---------------------------------------
+Tom is waking Rachel
+Rachel the Rhino is awake
+---------------------------------------
+Tom is waking Celab
+Celab the Cat is awake
+---------------------------------------
+Tom is waking Chris
+Chris the Cat is awake
+---------------------------------------
+Tom is waking Luna
+Luna the Lion is awake
+---------------------------------------
+Tom is waking Leslie
+Leslie the Lion is awake
+---------------------------------------
+Tom is waking Tom
+Tom the Tiger is awake
+---------------------------------------
+Tom is waking Tilt
+Tilt the Tiger is awake
+---------------------------------------
+Tom is waking Walter
+Walter the Wolf is awake
+---------------------------------------
+Tom is waking William
+William the Wolf is awake
+---------------------------------------
+Tom is waking Duang
+Duang the Dog is awake
+---------------------------------------
+Tom is waking Don
+Don the Dog is awake
+---------------------------------------
+Tom is waking Gavin
+Gavin the Gorilla is awake
+---------------------------------------
+Tom is waking Gabriel
+Gabriel the Gorilla is awake
+---------------------------------------
+Tom is waking Champ
+Champ the Chimpanzee is awake
+---------------------------------------
+Tom is waking Cocacola
+Cocacola the Chimpanzee is awake
+---------------------------------------
+Tom is calling Elle
+Elle is making noise
+---------------------------------------
+Tom is calling Elliot
+Elliot is making noise
+---------------------------------------
+Tom is calling Halcyon
+Halcyon is making noise
+---------------------------------------
+Tom is calling Happy
+Happy is making noise
+---------------------------------------
+Tom is calling Ron
+Ron is making noise
+---------------------------------------
+Tom is calling Rachel
+Rachel is making noise
+---------------------------------------
+Tom is calling Celab
+Celab the Cat is making noise
+---------------------------------------
+Tom is calling Chris
+Chris the Cat is making noise
+---------------------------------------
+Tom is calling Luna
+Luna is making noise
+---------------------------------------
+Tom is calling Leslie
+Leslie is making noise
+---------------------------------------
+Tom is calling Tom
+Tom is making noise
+---------------------------------------
+Tom is calling Tilt
+Tilt is making noise
+---------------------------------------
+Tom is calling Walter
+Walter is making noise
+---------------------------------------
+Tom is calling William
+William is making noise
+---------------------------------------
+Tom is calling Duang
+Duang is making noise
+---------------------------------------
+Tom is calling Don
+Don is making noise
+---------------------------------------
+Tom is calling Gavin
+Gavin is making noise, duang duang duang!
+---------------------------------------
+Tom is calling Gabriel
+Gabriel is making noise, duang duang duang!
+---------------------------------------
+Tom is calling Champ
+Champ is making noise, bobobobobo!
+---------------------------------------
+Tom is calling Cocacola
+Cocacola is making noise, bobobobobo!
+---------------------------------------
+Tom is feeding Elle
+Elle the Elephant is eating
+---------------------------------------
+Tom is feeding Elliot
+Elliot the Elephant is eating
+---------------------------------------
+Tom is feeding Halcyon
+Halcyon the Hippo is eating
+---------------------------------------
+Tom is feeding Happy
+Happy the Hippo is eating
+---------------------------------------
+Tom is feeding Ron
+Ron the Rhino is eating
+---------------------------------------
+Tom is feeding Rachel
+Rachel the Rhino is eating
+---------------------------------------
+Tom is feeding Celab
+Celab the Cat is eating
+---------------------------------------
+Tom is feeding Chris
+Chris the Cat is eating
+---------------------------------------
+Tom is feeding Luna
+Luna the Lion is eating
+---------------------------------------
+Tom is feeding Leslie
+Leslie the Lion is eating
+---------------------------------------
+Tom is feeding Tom
+Tom the Tiger is eating
+---------------------------------------
+Tom is feeding Tilt
+Tilt the Tiger is eating
+---------------------------------------
+Tom is feeding Walter
+Walter the Wolf is eating
+---------------------------------------
+Tom is feeding William
+William the Wolf is eating
+---------------------------------------
+Tom is feeding Duang
+Duang the Dog is eating
+---------------------------------------
+Tom is feeding Don
+Don the Dog is eating
+---------------------------------------
+Tom is feeding Gavin
+Gavin the Gorilla is eating
+---------------------------------------
+Tom is feeding Gabriel
+Gabriel the Gorilla is eating
+---------------------------------------
+Tom is feeding Champ
+Champ the Chimpanzee is eating
+---------------------------------------
+Tom is feeding Cocacola
+Cocacola the Chimpanzee is eating
+---------------------------------------
+Tom is forcing Elle to exercise
+Elle the Elephant is lifting weight
+---------------------------------------
+Tom is forcing Elliot to exercise
+Elliot the Elephant is lifting weight
+---------------------------------------
+Tom is forcing Halcyon to exercise
+Halcyon the Hippo is lifting weight
+---------------------------------------
+Tom is forcing Happy to exercise
+Happy the Hippo is lifting weight
+---------------------------------------
+Tom is forcing Ron to exercise
+Ron the Rhino is lifting weight
+---------------------------------------
+Tom is forcing Rachel to exercise
+Rachel the Rhino is lifting weight
+---------------------------------------
+Tom is forcing Celab to exercise
+Celab the Cat is lifting weight
+---------------------------------------
+Tom is forcing Chris to exercise
+Chris the Cat is lifting weight
+---------------------------------------
+Tom is forcing Luna to exercise
+Luna the Lion is lifting weight
+---------------------------------------
+Tom is forcing Leslie to exercise
+Leslie the Lion is lifting weight
+---------------------------------------
+Tom is forcing Tom to exercise
+Tom the Tiger is lifting weight
+---------------------------------------
+Tom is forcing Tilt to exercise
+Tilt the Tiger is lifting weight
+---------------------------------------
+Tom is forcing Walter to exercise
+Walter the Wolf is lifting weight
+---------------------------------------
+Tom is forcing William to exercise
+William the Wolf is lifting weight
+---------------------------------------
+Tom is forcing Duang to exercise
+Duang the dog is lifting weight
+---------------------------------------
+Tom is forcing Don to exercise
+Don the dog is lifting weight
+---------------------------------------
+Tom is forcing Gavin to exercise
+Gavin the Gorilla is lifting weight
+---------------------------------------
+Tom is forcing Gabriel to exercise
+Gabriel the Gorilla is lifting weight
+---------------------------------------
+Tom is forcing Champ to exercise
+Champ the Chimpanzee is lifting weight
+---------------------------------------
+Tom is forcing Cocacola to exercise
+Cocacola the Chimpanzee is lifting weight
+---------------------------------------
+Tom is injecting opium to Elle
+Elle the Elephant is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Elliot
+Elliot the Elephant is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Halcyon
+Halcyon the Hippo is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Happy
+Happy the Hippo is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Ron
+Ron the Rhino is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Rachel
+Rachel the Rhino is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Celab
+Celab the cat is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Chris
+Chris the Cat is making noise
+---------------------------------------
+Tom is injecting opium to Luna
+Luna the Lion is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Leslie
+Leslie the Lion is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Tom
+Tom the Tiger is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Tilt
+Tilt the Tiger is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Walter
+Walter the Wolf is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to William
+William the Wolf is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Duang
+Duang the Dog is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Don
+Don the Dog is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Gavin
+Gavin the Gorilla is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Gabriel
+Gabriel the Gorilla is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Champ
+Champ the Chimpanzee is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Cocacola
+Cocacola the Chimpanzee is asleep ZZZ
+
+Day 5
+Zookeeper Tom is arriving at zoo
+---------------------------------------
+Tom is waking Elle
+Elle the Elephant is awake
+---------------------------------------
+Tom is waking Elliot
+Elliot the Elephant is awake
+---------------------------------------
+Tom is waking Halcyon
+Halcyon the Hippo is awake
+---------------------------------------
+Tom is waking Happy
+Happy the Hippo is awake
+---------------------------------------
+Tom is waking Ron
+Ron the Rhino is awake
+---------------------------------------
+Tom is waking Rachel
+Rachel the Rhino is awake
+---------------------------------------
+Tom is waking Celab
+Celab the Cat is awake
+---------------------------------------
+Tom is waking Chris
+Chris the Cat is awake
+---------------------------------------
+Tom is waking Luna
+Luna the Lion is awake
+---------------------------------------
+Tom is waking Leslie
+Leslie the Lion is awake
+---------------------------------------
+Tom is waking Tom
+Tom the Tiger is awake
+---------------------------------------
+Tom is waking Tilt
+Tilt the Tiger is awake
+---------------------------------------
+Tom is waking Walter
+Walter the Wolf is awake
+---------------------------------------
+Tom is waking William
+William the Wolf is awake
+---------------------------------------
+Tom is waking Duang
+Duang the Dog is awake
+---------------------------------------
+Tom is waking Don
+Don the Dog is awake
+---------------------------------------
+Tom is waking Gavin
+Gavin the Gorilla is awake
+---------------------------------------
+Tom is waking Gabriel
+Gabriel the Gorilla is awake
+---------------------------------------
+Tom is waking Champ
+Champ the Chimpanzee is awake
+---------------------------------------
+Tom is waking Cocacola
+Cocacola the Chimpanzee is awake
+---------------------------------------
+Tom is calling Elle
+Elle is making noise
+---------------------------------------
+Tom is calling Elliot
+Elliot is making noise
+---------------------------------------
+Tom is calling Halcyon
+Halcyon is making noise
+---------------------------------------
+Tom is calling Happy
+Happy is making noise
+---------------------------------------
+Tom is calling Ron
+Ron is making noise
+---------------------------------------
+Tom is calling Rachel
+Rachel is making noise
+---------------------------------------
+Tom is calling Celab
+Celab the Cat is making noise
+---------------------------------------
+Tom is calling Chris
+Chris the Cat is making noise
+---------------------------------------
+Tom is calling Luna
+Luna is making noise
+---------------------------------------
+Tom is calling Leslie
+Leslie is making noise
+---------------------------------------
+Tom is calling Tom
+Tom is making noise
+---------------------------------------
+Tom is calling Tilt
+Tilt is making noise
+---------------------------------------
+Tom is calling Walter
+Walter is making noise
+---------------------------------------
+Tom is calling William
+William is making noise
+---------------------------------------
+Tom is calling Duang
+Duang is making noise
+---------------------------------------
+Tom is calling Don
+Don is making noise
+---------------------------------------
+Tom is calling Gavin
+Gavin is making noise, duang duang duang!
+---------------------------------------
+Tom is calling Gabriel
+Gabriel is making noise, duang duang duang!
+---------------------------------------
+Tom is calling Champ
+Champ is making noise, bobobobobo!
+---------------------------------------
+Tom is calling Cocacola
+Cocacola is making noise, bobobobobo!
+---------------------------------------
+Tom is feeding Elle
+Elle the Elephant is eating
+---------------------------------------
+Tom is feeding Elliot
+Elliot the Elephant is eating
+---------------------------------------
+Tom is feeding Halcyon
+Halcyon the Hippo is eating
+---------------------------------------
+Tom is feeding Happy
+Happy the Hippo is eating
+---------------------------------------
+Tom is feeding Ron
+Ron the Rhino is eating
+---------------------------------------
+Tom is feeding Rachel
+Rachel the Rhino is eating
+---------------------------------------
+Tom is feeding Celab
+Celab the Cat is eating
+---------------------------------------
+Tom is feeding Chris
+Chris the Cat is eating
+---------------------------------------
+Tom is feeding Luna
+Luna the Lion is eating
+---------------------------------------
+Tom is feeding Leslie
+Leslie the Lion is eating
+---------------------------------------
+Tom is feeding Tom
+Tom the Tiger is eating
+---------------------------------------
+Tom is feeding Tilt
+Tilt the Tiger is eating
+---------------------------------------
+Tom is feeding Walter
+Walter the Wolf is eating
+---------------------------------------
+Tom is feeding William
+William the Wolf is eating
+---------------------------------------
+Tom is feeding Duang
+Duang the Dog is eating
+---------------------------------------
+Tom is feeding Don
+Don the Dog is eating
+---------------------------------------
+Tom is feeding Gavin
+Gavin the Gorilla is eating
+---------------------------------------
+Tom is feeding Gabriel
+Gabriel the Gorilla is eating
+---------------------------------------
+Tom is feeding Champ
+Champ the Chimpanzee is eating
+---------------------------------------
+Tom is feeding Cocacola
+Cocacola the Chimpanzee is eating
+---------------------------------------
+Tom is forcing Elle to exercise
+Elle the Elephant is lifting weight
+---------------------------------------
+Tom is forcing Elliot to exercise
+Elliot the Elephant is lifting weight
+---------------------------------------
+Tom is forcing Halcyon to exercise
+Halcyon the Hippo is lifting weight
+---------------------------------------
+Tom is forcing Happy to exercise
+Happy the Hippo is lifting weight
+---------------------------------------
+Tom is forcing Ron to exercise
+Ron the Rhino is lifting weight
+---------------------------------------
+Tom is forcing Rachel to exercise
+Rachel the Rhino is lifting weight
+---------------------------------------
+Tom is forcing Celab to exercise
+Celab the Cat is lifting weight
+---------------------------------------
+Tom is forcing Chris to exercise
+Chris the Cat is lifting weight
+---------------------------------------
+Tom is forcing Luna to exercise
+Luna the Lion is lifting weight
+---------------------------------------
+Tom is forcing Leslie to exercise
+Leslie the Lion is lifting weight
+---------------------------------------
+Tom is forcing Tom to exercise
+Tom the Tiger is lifting weight
+---------------------------------------
+Tom is forcing Tilt to exercise
+Tilt the Tiger is lifting weight
+---------------------------------------
+Tom is forcing Walter to exercise
+Walter the Wolf is lifting weight
+---------------------------------------
+Tom is forcing William to exercise
+William the Wolf is lifting weight
+---------------------------------------
+Tom is forcing Duang to exercise
+Duang the dog is digging
+---------------------------------------
+Tom is forcing Don to exercise
+Don the dog is lifting weight
+---------------------------------------
+Tom is forcing Gavin to exercise
+Gavin the Gorilla is lifting weight
+---------------------------------------
+Tom is forcing Gabriel to exercise
+Gabriel the Gorilla is lifting weight
+---------------------------------------
+Tom is forcing Champ to exercise
+Champ the Chimpanzee is lifting weight
+---------------------------------------
+Tom is forcing Cocacola to exercise
+Cocacola the Chimpanzee is lifting weight
+---------------------------------------
+Tom is injecting opium to Elle
+Elle the Elephant is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Elliot
+Elliot the Elephant is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Halcyon
+Halcyon the Hippo is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Happy
+Happy the Hippo is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Ron
+Ron the Rhino is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Rachel
+Rachel the Rhino is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Celab
+Celab the Cat is making noise
+---------------------------------------
+Tom is injecting opium to Chris
+Chris the Cat is making noise
+---------------------------------------
+Tom is injecting opium to Luna
+Luna the Lion is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Leslie
+Leslie the Lion is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Tom
+Tom the Tiger is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Tilt
+Tilt the Tiger is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Walter
+Walter the Wolf is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to William
+William the Wolf is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Duang
+Duang the Dog is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Don
+Don the Dog is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Gavin
+Gavin the Gorilla is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Gabriel
+Gabriel the Gorilla is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Champ
+Champ the Chimpanzee is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Cocacola
+Cocacola the Chimpanzee is asleep ZZZ
+
+Day 6
+Zookeeper Tom is arriving at zoo
+---------------------------------------
+Tom is waking Elle
+Elle the Elephant is awake
+---------------------------------------
+Tom is waking Elliot
+Elliot the Elephant is awake
+---------------------------------------
+Tom is waking Halcyon
+Halcyon the Hippo is awake
+---------------------------------------
+Tom is waking Happy
+Happy the Hippo is awake
+---------------------------------------
+Tom is waking Ron
+Ron the Rhino is awake
+---------------------------------------
+Tom is waking Rachel
+Rachel the Rhino is awake
+---------------------------------------
+Tom is waking Celab
+Celab the Cat is awake
+---------------------------------------
+Tom is waking Chris
+Chris the Cat is awake
+---------------------------------------
+Tom is waking Luna
+Luna the Lion is awake
+---------------------------------------
+Tom is waking Leslie
+Leslie the Lion is awake
+---------------------------------------
+Tom is waking Tom
+Tom the Tiger is awake
+---------------------------------------
+Tom is waking Tilt
+Tilt the Tiger is awake
+---------------------------------------
+Tom is waking Walter
+Walter the Wolf is awake
+---------------------------------------
+Tom is waking William
+William the Wolf is awake
+---------------------------------------
+Tom is waking Duang
+Duang the Dog is awake
+---------------------------------------
+Tom is waking Don
+Don the Dog is awake
+---------------------------------------
+Tom is waking Gavin
+Gavin the Gorilla is awake
+---------------------------------------
+Tom is waking Gabriel
+Gabriel the Gorilla is awake
+---------------------------------------
+Tom is waking Champ
+Champ the Chimpanzee is awake
+---------------------------------------
+Tom is waking Cocacola
+Cocacola the Chimpanzee is awake
+---------------------------------------
+Tom is calling Elle
+Elle is making noise
+---------------------------------------
+Tom is calling Elliot
+Elliot is making noise
+---------------------------------------
+Tom is calling Halcyon
+Halcyon is making noise
+---------------------------------------
+Tom is calling Happy
+Happy is making noise
+---------------------------------------
+Tom is calling Ron
+Ron is making noise
+---------------------------------------
+Tom is calling Rachel
+Rachel is making noise
+---------------------------------------
+Tom is calling Celab
+Celab the Cat is making noise
+---------------------------------------
+Tom is calling Chris
+Chris the Cat is making noise
+---------------------------------------
+Tom is calling Luna
+Luna is making noise
+---------------------------------------
+Tom is calling Leslie
+Leslie is making noise
+---------------------------------------
+Tom is calling Tom
+Tom is making noise
+---------------------------------------
+Tom is calling Tilt
+Tilt is making noise
+---------------------------------------
+Tom is calling Walter
+Walter is making noise
+---------------------------------------
+Tom is calling William
+William is making noise
+---------------------------------------
+Tom is calling Duang
+Duang is making noise
+---------------------------------------
+Tom is calling Don
+Don is making noise
+---------------------------------------
+Tom is calling Gavin
+Gavin is making noise, duang duang duang!
+---------------------------------------
+Tom is calling Gabriel
+Gabriel is making noise, duang duang duang!
+---------------------------------------
+Tom is calling Champ
+Champ is making noise, bobobobobo!
+---------------------------------------
+Tom is calling Cocacola
+Cocacola is making noise, bobobobobo!
+---------------------------------------
+Tom is feeding Elle
+Elle the Elephant is eating
+---------------------------------------
+Tom is feeding Elliot
+Elliot the Elephant is eating
+---------------------------------------
+Tom is feeding Halcyon
+Halcyon the Hippo is eating
+---------------------------------------
+Tom is feeding Happy
+Happy the Hippo is eating
+---------------------------------------
+Tom is feeding Ron
+Ron the Rhino is eating
+---------------------------------------
+Tom is feeding Rachel
+Rachel the Rhino is eating
+---------------------------------------
+Tom is feeding Celab
+Celab the Cat is eating
+---------------------------------------
+Tom is feeding Chris
+Chris the Cat is eating
+---------------------------------------
+Tom is feeding Luna
+Luna the Lion is eating
+---------------------------------------
+Tom is feeding Leslie
+Leslie the Lion is eating
+---------------------------------------
+Tom is feeding Tom
+Tom the Tiger is eating
+---------------------------------------
+Tom is feeding Tilt
+Tilt the Tiger is eating
+---------------------------------------
+Tom is feeding Walter
+Walter the Wolf is eating
+---------------------------------------
+Tom is feeding William
+William the Wolf is eating
+---------------------------------------
+Tom is feeding Duang
+Duang the Dog is eating
+---------------------------------------
+Tom is feeding Don
+Don the Dog is eating
+---------------------------------------
+Tom is feeding Gavin
+Gavin the Gorilla is eating
+---------------------------------------
+Tom is feeding Gabriel
+Gabriel the Gorilla is eating
+---------------------------------------
+Tom is feeding Champ
+Champ the Chimpanzee is eating
+---------------------------------------
+Tom is feeding Cocacola
+Cocacola the Chimpanzee is eating
+---------------------------------------
+Tom is forcing Elle to exercise
+Elle the Elephant is lifting weight
+---------------------------------------
+Tom is forcing Elliot to exercise
+Elliot the Elephant is lifting weight
+---------------------------------------
+Tom is forcing Halcyon to exercise
+Halcyon the Hippo is lifting weight
+---------------------------------------
+Tom is forcing Happy to exercise
+Happy the Hippo is lifting weight
+---------------------------------------
+Tom is forcing Ron to exercise
+Ron the Rhino is lifting weight
+---------------------------------------
+Tom is forcing Rachel to exercise
+Rachel the Rhino is lifting weight
+---------------------------------------
+Tom is forcing Celab to exercise
+Celab the Cat is lifting weight
+---------------------------------------
+Tom is forcing Chris to exercise
+Chris the Cat is lifting weight
+---------------------------------------
+Tom is forcing Luna to exercise
+Luna the Lion is lifting weight
+---------------------------------------
+Tom is forcing Leslie to exercise
+Leslie the Lion is lifting weight
+---------------------------------------
+Tom is forcing Tom to exercise
+Tom the Tiger is lifting weight
+---------------------------------------
+Tom is forcing Tilt to exercise
+Tilt the Tiger is lifting weight
+---------------------------------------
+Tom is forcing Walter to exercise
+Walter the Wolf is lifting weight
+---------------------------------------
+Tom is forcing William to exercise
+William the Wolf is lifting weight
+---------------------------------------
+Tom is forcing Duang to exercise
+Duang the dog is lifting weight
+---------------------------------------
+Tom is forcing Don to exercise
+Don the dog is lifting weight
+---------------------------------------
+Tom is forcing Gavin to exercise
+Gavin the Gorilla is lifting weight
+---------------------------------------
+Tom is forcing Gabriel to exercise
+Gabriel the Gorilla is lifting weight
+---------------------------------------
+Tom is forcing Champ to exercise
+Champ the Chimpanzee is lifting weight
+---------------------------------------
+Tom is forcing Cocacola to exercise
+Cocacola the Chimpanzee is lifting weight
+---------------------------------------
+Tom is injecting opium to Elle
+Elle the Elephant is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Elliot
+Elliot the Elephant is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Halcyon
+Halcyon the Hippo is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Happy
+Happy the Hippo is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Ron
+Ron the Rhino is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Rachel
+Rachel the Rhino is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Celab
+Celab the cat is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Chris
+Chris the cat is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Luna
+Luna the Lion is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Leslie
+Leslie the Lion is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Tom
+Tom the Tiger is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Tilt
+Tilt the Tiger is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Walter
+Walter the Wolf is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to William
+William the Wolf is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Duang
+Duang the Dog is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Don
+Don the Dog is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Gavin
+Gavin the Gorilla is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Gabriel
+Gabriel the Gorilla is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Champ
+Champ the Chimpanzee is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Cocacola
+Cocacola the Chimpanzee is asleep ZZZ
+
+Day 7
+Zookeeper Tom is arriving at zoo
+---------------------------------------
+Tom is waking Elle
+Elle the Elephant is awake
+---------------------------------------
+Tom is waking Elliot
+Elliot the Elephant is awake
+---------------------------------------
+Tom is waking Halcyon
+Halcyon the Hippo is awake
+---------------------------------------
+Tom is waking Happy
+Happy the Hippo is awake
+---------------------------------------
+Tom is waking Ron
+Ron the Rhino is awake
+---------------------------------------
+Tom is waking Rachel
+Rachel the Rhino is awake
+---------------------------------------
+Tom is waking Celab
+Celab the Cat is awake
+---------------------------------------
+Tom is waking Chris
+Chris the Cat is awake
+---------------------------------------
+Tom is waking Luna
+Luna the Lion is awake
+---------------------------------------
+Tom is waking Leslie
+Leslie the Lion is awake
+---------------------------------------
+Tom is waking Tom
+Tom the Tiger is awake
+---------------------------------------
+Tom is waking Tilt
+Tilt the Tiger is awake
+---------------------------------------
+Tom is waking Walter
+Walter the Wolf is awake
+---------------------------------------
+Tom is waking William
+William the Wolf is awake
+---------------------------------------
+Tom is waking Duang
+Duang the Dog is awake
+---------------------------------------
+Tom is waking Don
+Don the Dog is awake
+---------------------------------------
+Tom is waking Gavin
+Gavin the Gorilla is awake
+---------------------------------------
+Tom is waking Gabriel
+Gabriel the Gorilla is awake
+---------------------------------------
+Tom is waking Champ
+Champ the Chimpanzee is awake
+---------------------------------------
+Tom is waking Cocacola
+Cocacola the Chimpanzee is awake
+---------------------------------------
+Tom is calling Elle
+Elle is making noise
+---------------------------------------
+Tom is calling Elliot
+Elliot is making noise
+---------------------------------------
+Tom is calling Halcyon
+Halcyon is making noise
+---------------------------------------
+Tom is calling Happy
+Happy is making noise
+---------------------------------------
+Tom is calling Ron
+Ron is making noise
+---------------------------------------
+Tom is calling Rachel
+Rachel is making noise
+---------------------------------------
+Tom is calling Celab
+Celab the Cat is making noise
+---------------------------------------
+Tom is calling Chris
+Chris the Cat is making noise
+---------------------------------------
+Tom is calling Luna
+Luna is making noise
+---------------------------------------
+Tom is calling Leslie
+Leslie is making noise
+---------------------------------------
+Tom is calling Tom
+Tom is making noise
+---------------------------------------
+Tom is calling Tilt
+Tilt is making noise
+---------------------------------------
+Tom is calling Walter
+Walter is making noise
+---------------------------------------
+Tom is calling William
+William is making noise
+---------------------------------------
+Tom is calling Duang
+Duang is making noise
+---------------------------------------
+Tom is calling Don
+Don is making noise
+---------------------------------------
+Tom is calling Gavin
+Gavin is making noise, duang duang duang!
+---------------------------------------
+Tom is calling Gabriel
+Gabriel is making noise, duang duang duang!
+---------------------------------------
+Tom is calling Champ
+Champ is making noise, bobobobobo!
+---------------------------------------
+Tom is calling Cocacola
+Cocacola is making noise, bobobobobo!
+---------------------------------------
+Tom is feeding Elle
+Elle the Elephant is eating
+---------------------------------------
+Tom is feeding Elliot
+Elliot the Elephant is eating
+---------------------------------------
+Tom is feeding Halcyon
+Halcyon the Hippo is eating
+---------------------------------------
+Tom is feeding Happy
+Happy the Hippo is eating
+---------------------------------------
+Tom is feeding Ron
+Ron the Rhino is eating
+---------------------------------------
+Tom is feeding Rachel
+Rachel the Rhino is eating
+---------------------------------------
+Tom is feeding Celab
+Celab the Cat is eating
+---------------------------------------
+Tom is feeding Chris
+Chris the Cat is eating
+---------------------------------------
+Tom is feeding Luna
+Luna the Lion is eating
+---------------------------------------
+Tom is feeding Leslie
+Leslie the Lion is eating
+---------------------------------------
+Tom is feeding Tom
+Tom the Tiger is eating
+---------------------------------------
+Tom is feeding Tilt
+Tilt the Tiger is eating
+---------------------------------------
+Tom is feeding Walter
+Walter the Wolf is eating
+---------------------------------------
+Tom is feeding William
+William the Wolf is eating
+---------------------------------------
+Tom is feeding Duang
+Duang the Dog is eating
+---------------------------------------
+Tom is feeding Don
+Don the Dog is eating
+---------------------------------------
+Tom is feeding Gavin
+Gavin the Gorilla is eating
+---------------------------------------
+Tom is feeding Gabriel
+Gabriel the Gorilla is eating
+---------------------------------------
+Tom is feeding Champ
+Champ the Chimpanzee is eating
+---------------------------------------
+Tom is feeding Cocacola
+Cocacola the Chimpanzee is eating
+---------------------------------------
+Tom is forcing Elle to exercise
+Elle the Elephant is lifting weight
+---------------------------------------
+Tom is forcing Elliot to exercise
+Elliot the Elephant is lifting weight
+---------------------------------------
+Tom is forcing Halcyon to exercise
+Halcyon the Hippo is lifting weight
+---------------------------------------
+Tom is forcing Happy to exercise
+Happy the Hippo is lifting weight
+---------------------------------------
+Tom is forcing Ron to exercise
+Ron the Rhino is lifting weight
+---------------------------------------
+Tom is forcing Rachel to exercise
+Rachel the Rhino is lifting weight
+---------------------------------------
+Tom is forcing Celab to exercise
+Celab the Cat is lifting weight
+---------------------------------------
+Tom is forcing Chris to exercise
+Chris the Cat is lifting weight
+---------------------------------------
+Tom is forcing Luna to exercise
+Luna the Lion is lifting weight
+---------------------------------------
+Tom is forcing Leslie to exercise
+Leslie the Lion is lifting weight
+---------------------------------------
+Tom is forcing Tom to exercise
+Tom the Tiger is lifting weight
+---------------------------------------
+Tom is forcing Tilt to exercise
+Tilt the Tiger is lifting weight
+---------------------------------------
+Tom is forcing Walter to exercise
+Walter the Wolf is lifting weight
+---------------------------------------
+Tom is forcing William to exercise
+William the Wolf is lifting weight
+---------------------------------------
+Tom is forcing Duang to exercise
+Duang the dog is lifting weight
+---------------------------------------
+Tom is forcing Don to exercise
+Don the dog is lifting weight
+---------------------------------------
+Tom is forcing Gavin to exercise
+Gavin the Gorilla is lifting weight
+---------------------------------------
+Tom is forcing Gabriel to exercise
+Gabriel the Gorilla is lifting weight
+---------------------------------------
+Tom is forcing Champ to exercise
+Champ the Chimpanzee is lifting weight
+---------------------------------------
+Tom is forcing Cocacola to exercise
+Cocacola the Chimpanzee is lifting weight
+---------------------------------------
+Tom is injecting opium to Elle
+Elle the Elephant is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Elliot
+Elliot the Elephant is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Halcyon
+Halcyon the Hippo is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Happy
+Happy the Hippo is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Ron
+Ron the Rhino is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Rachel
+Rachel the Rhino is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Celab
+Celab is roaming, meoooooooooow!
+---------------------------------------
+Tom is injecting opium to Chris
+Chris the cat is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Luna
+Luna the Lion is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Leslie
+Leslie the Lion is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Tom
+Tom the Tiger is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Tilt
+Tilt the Tiger is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Walter
+Walter the Wolf is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to William
+William the Wolf is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Duang
+Duang the Dog is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Don
+Don the Dog is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Gavin
+Gavin the Gorilla is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Gabriel
+Gabriel the Gorilla is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Champ
+Champ the Chimpanzee is asleep ZZZ
+---------------------------------------
+Tom is injecting opium to Cocacola
+Cocacola the Chimpanzee is asleep ZZZ
+(base) caleb@TianchendeMBP 4448_Project_1_Keyu_Tianchen % 
