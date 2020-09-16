@@ -1,5 +1,6 @@
 package Zoo;
 
+//Abstraction for different animals. 
 public abstract class Animal 
 { 
     protected String name;  

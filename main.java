@@ -31,7 +31,7 @@ public class main
     public static void main(String[] args)
     {
     	List<Animal> Animal_list = new ArrayList<Animal>();
-
+        //Identity for differnt kind of animals.
     	Elephant a1 = new Elephant("Elle");
     	Animal_list.add(a1);
 
