@@ -2,7 +2,7 @@
 
 ### Team members:
 Keyu Wu, 107114346, kewu6458@colorado.edu<br>
-Tianchen wang, 107075265, tiwa4690@colorado.edu<br>
+Tianchen Wang, 107075265, tiwa4690@colorado.edu<br>
 Yi Hou, 109288627, yiho1721@colorado.edu<br>
 
 ### Comments and Assumption:
